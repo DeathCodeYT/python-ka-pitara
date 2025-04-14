@@ -1,0 +1,6 @@
+{
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.autoComplete.extraPaths": [
+    
+    ]
+}
