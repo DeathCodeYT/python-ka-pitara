@@ -38,7 +38,9 @@
 # func()
 # print(x)
 
-
+# def add(a,b):
+#     return a+b
+# var = lambda parameters: return expression => lambda function syntax
 add = lambda a,b: a+b
 print(add(45,54))
 
