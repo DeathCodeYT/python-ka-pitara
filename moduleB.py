@@ -1,0 +1,3 @@
+
+def functionB():
+    pass
